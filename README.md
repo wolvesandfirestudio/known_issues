@@ -1,5 +1,6 @@
 [![License: MIT](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
 [![PRs Welcome: Nope](https://img.shields.io/badge/PRs-Welcome--nope-red.svg)](https://www.wolvesandfirestudio.com)
+![Status: Almost Killed Everything](https://img.shields.io/badge/status-almost--killed--everything-yellow.svg)
 
 # Ember Relay – Known Issues Log
 
