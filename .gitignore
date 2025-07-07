@@ -1,0 +1,9 @@
+venv/ 
+legacy-local/ 
+__pycache__/ 
+*.pyc 
+*.log 
+.DS_Store 
+node_modules/ 
+.env 
+weather_logs/ 
